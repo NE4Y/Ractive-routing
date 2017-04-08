@@ -6,13 +6,13 @@ A simple ractive router.
 
 Add route /route and corresponding ractive controller test
 
-```
+```js
 Router.add("/test", "test");
 ```
 
 where a ractive controller looks like
 
-```
+```js
 Ractive.load('template/test.html').then(function(HelloWorld) {
     ractive = new HelloWorld({
         el: 'main',
