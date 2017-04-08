@@ -2,6 +2,12 @@
 
 A simple ractive router for an example ractive web app using external templates.
 
+
+## Dependencies
+- Ractive
+- Ractive-loader
+- Jquery
+
 ## Usage
 
 Add route /route and corresponding ractive controller test
