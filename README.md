@@ -2,7 +2,7 @@
 
 A simple ractive router for an example ractive web app using external templates.
 
-
+Goal is to enable simple phonegap support to use this web app as android /ios app.
 ## Dependencies
 - Ractive
 - Ractive-loader
