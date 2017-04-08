@@ -9,7 +9,11 @@ Add route /route and corresponding ractive controller test
 ```js
 Router.add("/test", "test");
 ```
+and start the routing process afterwards
 
+```js
+Router.route();
+```
 where a ractive controller looks like
 
 ```js
