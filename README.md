@@ -1,6 +1,6 @@
 # Ractive router
 
-A simple ractive router.
+A simple ractive router for an example ractive web app using external templates.
 
 ## Usage
 
